@@ -1,12 +1,27 @@
-# React + Vite
+# 🎯 پروژه لندینگ‌پیج چی‌توز | Cheetoz Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+سلام!  
+این پروژه یک **لندینگ‌پیج کامل، حرفه‌ای و ۱۰۰٪ ریسپانسیو** برای برند فرضی چی‌توز است که با تمرکز بر طراحی جذاب و انیمیشن‌های چشم‌نواز ساخته شده.
 
-Currently, two official plugins are available:
+## ✨ تکنولوژی‌های استفاده‌شده:
+- ⚛️ React JS
+- 🎯 JavaScript (ES6+)
+- 🎨 Tailwind CSS
+- 🎥 Framer Motion (برای انیمیشن‌های حرفه‌ای و روان)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📱 ویژگی‌ها:
+- طراحی کاملاً **ریسپانسیو** برای موبایل، تبلت و دسکتاپ  
+- ساختار تمیز، مدرن و قابل توسعه  
+- کد تمیز 
+- انیمیشن‌های حرکتی نرم برای تجربه کاربری بهتر  
 
-## Expanding the ESLint configuration
+## 🎬 دمو و ویدیو:
+دمو و فیلم معرفی پروژه در لینکدین من قرار دارد:  
+🔗 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💬 نظرت چیه؟
+خیلی خوشحال می‌شم اگه نظرات، پیشنهادات یا حتی انتقادات خودتو بهم بگی :)  
+از بازخوردت برای بهتر شدن استفاده می‌کنم.
+
+---
+
